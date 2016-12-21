@@ -1,0 +1,9 @@
+{
+    "path" : "~/projects/movierec",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
